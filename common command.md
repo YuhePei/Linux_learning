@@ -6,6 +6,7 @@ sudo apt install file
 ```
 ##appImage文件运行方式
 直接在命令行中输入该文件
+
 ##desktop文件运行方式
 ```
 dex file.desktop
