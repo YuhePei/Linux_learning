@@ -20,3 +20,9 @@ dex file.desktop
 ```
 vdb-config --interactive
 ```
+下载srr数据
+
+运用'prefetch'或'fastq-dump'
+```
+fastq-dump --split-3 SRRXXXXXXX
+```
